@@ -98,7 +98,6 @@ public class MainActivity extends AppCompatActivity {
         Customer customer3 = new Customer("Suman",25000);
         customer1.setLoan(customer1.getSalary());
         Customer customer4 = new Customer("yash",14000);
-
         customer1.setLoan(customer1.getSalary());
         Customer customer5 = new Customer("vijay",50000);
         customer1.setLoan(customer1.getSalary());
